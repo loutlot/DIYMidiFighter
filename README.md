@@ -30,7 +30,7 @@ You can purchase chinese clone on Aliexpress
 Check 2 stl files at [STL File](https://github.com/loutlot/DIYMidiFighter/tree/main/stl)  
 If you don't want to slice on your own, I uploaded .gcode file to here too. [GCODE](https://github.com/loutlot/DIYMidiFighter/tree/main/gcode)  
   
-Files are designed to be printed without support, **no need to add support**, just put faces down and go print.  
+Files are designed to be printed without support, **no need to add support**, just put flat faces down and go print.  
 I printed with conditions below:  
  - PLA
  - 0.4mm Nozzle
