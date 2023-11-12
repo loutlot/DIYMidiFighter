@@ -1,5 +1,3 @@
-# DIYMidiFighter
-
 # DIY Midi Fighter Thing tutorial.
 
 This is the DIY Midi Fighter project page.
