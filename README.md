@@ -59,6 +59,7 @@ Arduino reads Pin 1 on switch pulldown.
 ### Connection to Arduino 
 Connect cables coming from Pin1 on switches to Arduino input pins
 ![Arduino Pinassign]()
+
 Look at the blue numbering on the diagram above.
 I assigned:
  - Pin1 to Pin9 correspond with Note C1 to A1 by order **(not pin number order, pin location order)**.
