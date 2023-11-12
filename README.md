@@ -35,8 +35,7 @@ It took 8 hours for main body, 6 hours for lid using my printer
 Download [Arduino IDE]() first.
 Also You need to install [Control-Surface](https://github.com/tttapa/Control-Surface) library for my code to work, follow [Their Instruction](https://tttapa.github.io/Control-Surface-doc/Doxygen/d8/da8/md_pages_Installation.html) to install the library.
 
-DL my code [here]().
-
+DL my code [here]().  
 You can burn into Arduino via USB cable using Arduino IDE.
 Select "Arduino Leonardo" for device and choose USB device pops up when you plugged in.
 
