@@ -5,21 +5,21 @@ This contains everything needed for you to go through and finish DIY Midi Fighte
 
 # Item List
 
- - **Arduino Pro Micro** * 1
-Arduino Pro Micro works with atmega 32u4 chip and compatible with Arduino Leonardo, this chip is often used for custom keyboard project since it has capability to directly send key input to PC devices.
-You can purchase chinese clone on Aliexpress
-[LINK](https://aliexpress.com/item/1005001622051348.html)
- (I purchased "TYPE-C USB 3-6V New" version)
-**! Make sure to purhase 5V version to work correctly with LED on buttons**
-**! USB C version doesn't contain pullup resistor in it, so it doesn't work with USB-C - USB-C cable without tricks**
-
- - **Sanwa Compatible Buttons** * 16
- This is clone for Sanwa 30mm arcade button.
- [LINK](https://aliexpress.com/item/4001077002366.html)
- **!Make sure to purchase more than 16 units of this, since quality is poor and can come with bad condition**
-
- - Some Cables for internal connetions
- 
+ - **Arduino Pro Micro** * 1  
+Arduino Pro Micro works with atmega 32u4 chip and compatible with Arduino Leonardo, this chip is often used for custom keyboard project since it has capability to directly send key input to PC devices.  
+You can purchase chinese clone on Aliexpress  
+[LINK](https://aliexpress.com/item/1005001622051348.html)  
+ (I purchased "TYPE-C USB 3-6V New" version)  
+**! Make sure to purhase 5V version to work correctly with LED on buttons**  
+**! USB C version doesn't contain pullup resistor in it, so it doesn't work with USB-C - USB-C cable without tricks**  
+  
+ - **Sanwa Compatible Buttons** * 16  
+ This is clone for Sanwa 30mm arcade button.  
+ [LINK](https://aliexpress.com/item/4001077002366.html)  
+ **!Make sure to purchase more than 16 units of this, since quality is poor and can come with bad condition**  
+  
+ - Some Cables for internal connetions  
+   
 ## 3D Printing
 Check 2 stl files at [STL File]()
 If you don't want to slice on your own, I uploaded .gcode file to here too. [GCODE]()  
