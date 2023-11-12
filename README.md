@@ -24,7 +24,7 @@ You can purchase chinese clone on Aliexpress
 
  - Some Cables for internal connetions  
    Better to have more than 3 colors
- - Rubber feat * 4
+ - Rubber feet * 4
    
 ## 3D Printing  
 Check 2 stl files at [STL File](https://github.com/loutlot/DIYMidiFighter/tree/main/stl)  
