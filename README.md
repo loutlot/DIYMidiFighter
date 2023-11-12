@@ -23,6 +23,8 @@ You can purchase chinese clone on Aliexpress
    This is for closing a lid, cheap to purchase at Aliexpress too with items above.
 
  - Some Cables for internal connetions  
+   Better to have more than 3 colors
+ - Rubber feat * 4
    
 ## 3D Printing  
 Check 2 stl files at [STL File](https://github.com/loutlot/DIYMidiFighter/tree/main/stl)  
