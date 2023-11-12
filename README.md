@@ -51,6 +51,7 @@ Here is a basic diagram.
 |2            |Switch -|Arduino GND
 |3            |LED -|PIN 1
 |4            |LED +|+5V (Arduino RAW)
+
 Arduino reads Pin 1 on switch pulldown.
  - Connect Pin 1 and 3 on the switch.
  - GND and 5V+ each share connections with other switches
