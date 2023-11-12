@@ -68,6 +68,8 @@ I assigned:
   
 on the cord, Since C1 is the starting offset for Ableton Live drum rack.  
 You can customize by editing the cord.  
+Use Note Numbers Figure below for reference:  
+![Note Numbers](https://djip.co/w/wp-content/uploads/drupal/blog/logic-midi-note-numbers.png)
   
 When you finish assembly, it should look like this.  
 ![image finished](https://github.com/loutlot/DIYMidiFighter/blob/main/ReadMeImages/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-11-13%204.00.38.png?raw=true)  
