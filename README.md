@@ -19,7 +19,7 @@ You can purchase chinese clone on Aliexpress
  [LINK](https://aliexpress.com/item/4001077002366.html)  
  **!Make sure to purchase more than 16 units of this, since quality is poor and can come with bad condition**  
 
- - M3 x 8mm Flat Head Screw * 4
+ - M3 x 8mm Flat Head Screw * 4  
    This is for closing a lid.
 
  - Some Cables for internal connetions  
