@@ -1,5 +1,6 @@
 # DIY Midi Fighter Thing tutorial.  
-  
+
+![Main Image](https://github.com/loutlot/DIYMidiFighter/blob/main/ReadMeImages/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-11-11%2021.03.22.png?raw=true)  
 This is the DIY Midi Fighter project page.  
 This contains everything needed for you to go through and finish DIY Midi Fighter-ish thing build.  
   
@@ -21,8 +22,8 @@ You can purchase chinese clone on Aliexpress
  - Some Cables for internal connetions  
    
 ## 3D Printing  
-Check 2 stl files at [STL File]()  
-If you don't want to slice on your own, I uploaded .gcode file to here too. [GCODE]()  
+Check 2 stl files at [STL File](https://github.com/loutlot/DIYMidiFighter/tree/main/stl)  
+If you don't want to slice on your own, I uploaded .gcode file to here too. [GCODE](https://github.com/loutlot/DIYMidiFighter/tree/main/gcode)  
   
 Files are designed to be printed without support, **no need to add support**, just put faces down and go print.  
 I printed with conditions below:  
@@ -32,7 +33,7 @@ I printed with conditions below:
 It took 8 hours for main body, 6 hours for lid using my printer  
   
 ## Arduino coding/writing
-Download [Arduino IDE]() first.  
+Download [Arduino IDE](https://www.arduino.cc/en/software) first.  
 Also You need to install [Control-Surface](https://github.com/tttapa/Control-Surface) library for my code to work, follow [Their Instruction](https://tttapa.github.io/Control-Surface-doc/Doxygen/d8/da8/md_pages_Installation.html) to install the library.  
 
 DL my code [here]().  
@@ -44,7 +45,7 @@ Assembly requires patience and little bit of soldering skills.
 Here is a basic diagram.  
 
 ### switch assembly
-![image switch]()  
+![image switch](https://github.com/loutlot/DIYMidiFighter/blob/main/ReadMeImages/IMG_9022.png?raw=true)  
 |PIN on Button|Function    |Goes to|
 |-------------|--------|-|
 |1            |Switch +|Arduino PIN & PIN 3
@@ -58,7 +59,7 @@ Arduino reads Pin 1 on switch pulldown.
   
 ### Connection to Arduino 
 Connect cables coming from Pin1 on switches to Arduino input pins  
-![Arduino Pinassign]()  
+![Arduino Pinassign](https://github.com/loutlot/DIYMidiFighter/blob/main/ReadMeImages/https___qiita-image-store.s3.amazonaws.com_0_40627_2b9967d7-6d4f-7c6a-2dd0-223cabad3a29.png?raw=true)  
   
 Look at the blue numbering on the diagram above.  
 I assigned:  
@@ -69,7 +70,7 @@ on the cord, Since C1 is the starting offset for Ableton Live drum rack.
 You can customize by editing the cord.  
   
 When you finish assembly, it should look like this.  
-![image finished]()  
+![image finished](https://github.com/loutlot/DIYMidiFighter/blob/main/ReadMeImages/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-11-13%204.00.38.png?raw=true)  
   
 ## Rename Device Name (Optional)
 You can change device name from "Arduino Leonardo".  
