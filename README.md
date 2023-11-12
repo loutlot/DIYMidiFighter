@@ -35,6 +35,7 @@ I printed with conditions below:
  - PLA
  - 0.4mm Nozzle
  - 0.2mm Layer height  
+  
 It took 8 hours for main body, 6 hours for lid using my printer  
   
 ## Arduino coding/writing
