@@ -30,7 +30,8 @@ You can purchase chinese clone on Aliexpress
 ## 3D Printing  
 Check 2 stl files at [STL File](https://github.com/loutlot/DIYMidiFighter/tree/main/stl)  
 If you don't want to slice on your own, I uploaded .gcode file to here too. [GCODE](https://github.com/loutlot/DIYMidiFighter/tree/main/gcode)  
-  
+
+![Slicer](https://github.com/loutlot/DIYMidiFighter/blob/main/ReadMeImages/slicer.png?raw=true)    
 Files are designed to be printed without support, **no need to add support**, just put flat faces down and go print.  
 I printed with conditions below:  
  - PLA
@@ -46,7 +47,7 @@ Also You need to install [Control-Surface](https://github.com/tttapa/Control-Sur
 DL my code [here](https://github.com/loutlot/DIYMidiFighter/blob/main/Arduino_Code/midif.ino).  
 You can burn into Arduino via USB cable using Arduino IDE.  
 Select "Arduino Leonardo" for device and choose USB device pops up when you plugged in.  
-
+  
 ## Assembly
 Assembly requires patience and little bit of soldering skills.  
 Here is a basic diagram.  
@@ -61,8 +62,8 @@ Here is a basic diagram.
 |4            |LED +|+5V (Arduino RAW)
   
 Arduino reads Pin 1 on switch pulldown.  
- - Connect Pin 1 and 3 on the switch.
- - GND and 5V+ each share connections with other switches
+ - Connect Pin 1 and 3 on the switch.  
+ - GND and 5V+ each share connections with other switches  
   
 ### Connection to Arduino 
 Connect cables coming from Pin1 on switches to Arduino input pins  
@@ -70,8 +71,8 @@ Connect cables coming from Pin1 on switches to Arduino input pins
   
 Look at the blue numbering on the diagram above.  
 I assigned:  
- - Pin1 to Pin9 correspond with Note C1 to A1 by order **(not pin number order, pin location order)**.
- - Pin 10 to Pin 19 correspond with Note A#1 to D#2 by order **(not pin number order, pin location order)**. 
+ - Pin1 to Pin9 correspond with Note C1 to A1 by order **(not pin number order, pin location order)**.  
+ - Pin 10 to Pin 19 correspond with Note A#1 to D#2 by order **(not pin number order, pin location order)**.  
   
 on the cord, Since C1 is the starting offset for Ableton Live drum rack.  
 You can customize by editing the cord.  
