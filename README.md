@@ -29,10 +29,10 @@ You can purchase chinese clone on Aliexpress
    
 ## 3D Printing  
 Check 2 stl files at [STL File](https://github.com/loutlot/DIYMidiFighter/tree/main/stl)  
-If you don't want to slice on your own, I uploaded .gcode file to here too. [GCODE](https://github.com/loutlot/DIYMidiFighter/tree/main/gcode)  
+In case you don't want to slice them on your own, I uploaded .gcode file to here too. [GCODE](https://github.com/loutlot/DIYMidiFighter/tree/main/gcode)  
 
 ![Slicer](https://github.com/loutlot/DIYMidiFighter/blob/main/ReadMeImages/slicer.png?raw=true)    
-Files are designed to be printed without support, **no need to add support**, just put flat faces down and go print.  
+Files are designed to be printed without support material, **no need to add supports**, just putting flat face down and go print works.  
 I printed with conditions below:  
  - PLA
  - 0.4mm Nozzle
@@ -66,7 +66,7 @@ Arduino reads Pin 1 on switch pulldown.
  - GND and 5V+ each share connections with other switches  
   
 ### Connection to Arduino 
-Connect cables coming from Pin1 on switches to Arduino input pins  
+Connect wires coming from Pin1 on switches to Arduino input pins  
 ![Arduino Pinassign](https://github.com/loutlot/DIYMidiFighter/blob/main/ReadMeImages/https___qiita-image-store.s3.amazonaws.com_0_40627_2b9967d7-6d4f-7c6a-2dd0-223cabad3a29.png?raw=true)  
   
 Look at the blue numbering on the diagram above.  
